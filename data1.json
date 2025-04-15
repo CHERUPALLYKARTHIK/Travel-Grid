@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Abhi",
+        "gender": "Male",
+        "state": "Kerala",
+        "languages": [
+            "Malayalam",
+            "Tulu",
+            "Marathi"
+        ],
+        "phno": "8765654534"
+    },
+    {
+        "name": "Suresh",
+        "gender": "Male",
+        "state": "Telangana",
+        "languages": [
+            "Telugu",
+            "Hindi",
+            "English"
+        ],
+        "phno": "9870884667"
+    },
+    {
+        "name": "Mahesh",
+        "gender": "Male",
+        "state": "Tamilnadu",
+        "languages": [
+            "Tamil",
+            "Hindi",
+            "English"
+        ],
+        "phno": "9788676567"
+    },
+    {
+        "name": "Aravind",
+        "gender": "Male",
+        "state": "Karnataka",
+        "languages": [
+            "Kannada",
+            "Urdu",
+            "English"
+        ],
+        "phno": "8467565568"
+    },
+    {
+        "name": "Harsha",
+        "gender": "Male",
+        "state": "Andhra Pradesh",
+        "languages": [
+            "Telugu",
+            "Hindi",
+            "English",
+            "Oriya",
+            "Banjara"
+        ],
+        "phno": "7854396567"
+    },
+    {
+        "name": "James",
+        "gender": "Male",
+        "state": "Kerala",
+        "languages": [
+            "Malayalam",
+            "Hindi",
+            "English"
+        ],
+        "phno": "9865543435"
+    },
+    {
+        "name": "John",
+        "gender": "Male",
+        "state": "Tamilnadu",
+        "languages": [
+            "Tamil",
+            "English",
+            "Urdu"
+        ],
+        "phno": "8776655457"
+    },
+    {
+        "name": "Robert",
+        "gender": "Male",
+        "state": "Karnataka",
+        "languages": [
+            "Kannada",
+            "Hindi",
+            "English",
+            "Tulu"
+        ],
+        "phno": "8978766545"
+    },
+    {
+        "name": "Rohitha",
+        "gender": "Female",
+        "state": "Telangana",
+        "languages": [
+            "Telugu",
+            "Hindi",
+            "English"
+        ],
+        "phno": "6303965109"
+    },
+    {
+        "name": "Karthik",
+        "gender": "Male",
+        "state": "Assam",
+        "languages": [
+            "assamese",
+            "hindi",
+            "english"
+        ],
+        "phno": "1234567890"
+    },
+    {
+        "name": "Karthik",
+        "gender": "Male",
+        "state": "Assam",
+        "languages": [
+            "assamese",
+            "hindi",
+            "english"
+        ],
+        "phno": "123456789"
+    },
+    {
+        "name": "Karthik",
+        "gender": "Male",
+        "state": "Assam",
+        "languages": [
+            "assamese",
+            "hindi",
+            "english"
+        ],
+        "phno": "1234567890"
+    },
+    {
+        "username": "chagarlamudi_rohitha",
+        "name": "Karthik",
+        "gender": "Male",
+        "state": "Maharashtra",
+        "languages": [
+            "Marathi",
+            "Telugu",
+            "English",
+            "French"
+        ],
+        "phno": "8978248581"
+    },
+    {
+        "username": "snehitha_1203",
+        "name": "snehitha the girl",
+        "gender": "Female",
+        "state": "kerala",
+        "languages": [
+            "hindi",
+            "english",
+            "telugu"
+        ],
+        "phno": "8309540267"
+    }
+]

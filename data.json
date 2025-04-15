@@ -1,0 +1,183 @@
+[
+    {
+      "state": "Andhra Pradesh",
+      "attractions": ["Araku Valley", "Tirupati", "Vishakhapatnam", "Lepakshi", "Horsley Hills"],
+      "cost": "35000"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "attractions": ["Tawang", "Ziro Valley", "Bomdila", "Itanagar", "Sela Pass"],
+      "cost": "50000"
+    },
+    {
+      "state": "Assam",
+      "attractions": ["Kaziranga National Park", "Majuli", "Guwahati", "Sivasagar", "Haflong"],
+      "cost": "40000"
+    },
+    {
+      "state": "Bihar",
+      "attractions": ["Bodh Gaya", "Nalanda", "Rajgir", "Patna", "Vaishali"],
+      "cost": "30000"
+    },
+    {
+      "state": "Chhattisgarh",
+      "attractions": ["Chitrakote Falls", "Barnawapara Sanctuary", "Raipur", "Sirpur", "Tirathgarh Falls"],
+      "cost": "30000"
+    },
+    {
+      "state": "Goa",
+      "attractions": ["Baga Beach", "Calangute", "Dudhsagar Falls", "Fort Aguada", "Anjuna"],
+      "cost": "30000"
+    },
+    {
+      "state": "Gujarat",
+      "attractions": ["Gir National Park", "Statue of Unity", "Dwarka", "Rann of Kutch", "Somnath"],
+      "cost": "40000"
+    },
+    {
+      "state": "Haryana",
+      "attractions": ["Kurukshetra", "Surajkund", "Panipat", "Morni Hills", "Pinjore Gardens"],
+      "cost": "25000"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "attractions": ["Shimla", "Manali", "Dharamshala", "Kullu", "Spiti Valley"],
+      "cost": "50000"
+    },
+    {
+      "state": "Jharkhand",
+      "attractions": ["Netarhat", "Ranchi", "Betla National Park", "Hundru Falls", "Deoghar"],
+      "cost": "30000"
+    },
+    {
+      "state": "Karnataka",
+      "attractions": ["Coorg", "Hampi", "Mysore", "Chikmagalur", "Gokarna"],
+      "cost": "38000"
+    },
+    {
+      "state": "Kerala",
+      "attractions": ["Munnar", "Alleppey", "Thekkady", "Kochi", "Wayanad"],
+      "cost": "45000"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "attractions": ["Khajuraho", "Bandhavgarh", "Kanha", "Ujjain", "Bhopal"],
+      "cost": "40000"
+    },
+    {
+      "state": "Maharashtra",
+      "attractions": ["Ajanta and Ellora Caves", "Mahabaleshwar", "Panchgani", "Shirdi", "Bhandardara"],
+      "cost": "35000"
+    },
+    {
+      "state": "Manipur",
+      "attractions": ["Loktak Lake", "Imphal", "Kangla Fort", "Thoubal", "Keibul Lamjao"],
+      "cost": "42000"
+    },
+    {
+      "state": "Meghalaya",
+      "attractions": ["Shillong", "Cherrapunji", "Mawsynram", "Dawki", "Nongriat"],
+      "cost": "45000"
+    },
+    {
+      "state": "Mizoram",
+      "attractions": ["Aizawl", "Reiek", "Champhai", "Phawngpui", "Tam Dil"],
+      "cost": "42000"
+    },
+    {
+      "state": "Nagaland",
+      "attractions": ["Kohima", "Dzukou Valley", "Mokokchung", "Mon", "Hornbill Festival"],
+      "cost": "45000"
+    },
+    {
+      "state": "Odisha",
+      "attractions": ["Puri", "Konark", "Chilika Lake", "Bhubaneswar", "Simlipal"],
+      "cost": "35000"
+    },
+    {
+      "state": "Punjab",
+      "attractions": ["Amritsar", "Golden Temple", "Wagah Border", "Patiala", "Ludhiana"],
+      "cost": "30000"
+    },
+    {
+      "state": "Rajasthan",
+      "attractions": ["Jaipur", "Udaipur", "Jodhpur", "Jaisalmer", "Mount Abu"],
+      "cost": "40000"
+    },
+    {
+      "state": "Sikkim",
+      "attractions": ["Gangtok", "Tsomgo Lake", "Yumthang Valley", "Pelling", "Lachung"],
+      "cost": "45000"
+    },
+    {
+      "state": "Tamil Nadu",
+      "attractions": ["Ooty", "Kodaikanal", "Madurai", "Rameswaram", "Mahabalipuram"],
+      "cost": "35000"
+    },
+    {
+      "state": "Telangana",
+      "attractions": ["Hyderabad", "Warangal", "Nagarjuna Sagar", "Ramoji Film City", "Bhadrachalam"],
+      "cost": "35000"
+    },
+    {
+      "state": "Tripura",
+      "attractions": ["Agartala", "Neermahal", "Unakoti", "Ujjayanta Palace", "Jampui Hills"],
+      "cost": "35000"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "attractions": ["Agra", "Varanasi", "Lucknow", "Mathura", "Prayagraj"],
+      "cost": "35000"
+    },
+    {
+      "state": "Uttarakhand",
+      "attractions": ["Nainital", "Mussoorie", "Rishikesh", "Haridwar", "Auli"],
+      "cost": "40000"
+    },
+    {
+      "state": "West Bengal",
+      "attractions": ["Darjeeling", "Kolkata", "Sundarbans", "Kalimpong", "Digha"],
+      "cost": "37000"
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "attractions": ["Havelock Island", "Neil Island", "Port Blair", "Cellular Jail", "Radhanagar Beach"],
+      "cost": "60000"
+    },
+    {
+      "state": "Chandigarh",
+      "attractions": ["Rock Garden", "Sukhna Lake", "Rose Garden", "Capitol Complex", "Elante Mall"],
+      "cost": "25000"
+    },
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "attractions": ["Daman Fort", "Silvassa", "Jampore Beach", "Satmalia", "Vanganga Garden"],
+      "cost": "30000"
+    },
+    {
+      "state": "Delhi",
+      "attractions": ["India Gate", "Red Fort", "Qutub Minar", "Lotus Temple", "Akshardham"],
+      "cost": "30000"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "attractions": ["Srinagar", "Gulmarg", "Pahalgam", "Sonmarg", "Vaishno Devi"],
+      "cost": "55000"
+    },
+    {
+      "state": "Ladakh",
+      "attractions": ["Leh", "Pangong Lake", "Nubra Valley", "Khardung La", "Tso Moriri"],
+      "cost": "60000"
+    },
+    {
+      "state": "Lakshadweep",
+      "attractions": ["Agatti Island", "Kavaratti", "Bangaram Island", "Minicoy", "Kalpeni"],
+      "cost": "70000"
+    },
+    {
+      "state": "Puducherry",
+      "attractions": ["Auroville", "Paradise Beach", "French Quarter", "Serenity Beach", "Promenade"],
+      "cost": "30000"
+    }
+  ]
+  
